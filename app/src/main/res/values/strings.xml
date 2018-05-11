@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChecklistApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="sucess_conection">Conexão criada com sucesso!</string>
+    <string name="title_activity_checklist_add">ChecklistAdd</string>
+    <string name="description">Descrição</string>
+    <string name="active">Ativo</string>
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="campo_vazio">Campo Vazio</string>
+    <string name="descricao_invalido">Campo descrição inválido!</string>
+</resources>
